@@ -40,7 +40,7 @@ const gemThiefMovementMinus = [{ transform: "translateX(-1200px" }];
 //timing for thief animation
 
 const gemThiefTiming = {
-  duration: 5000,
+  duration: 8000,
   iterations: 1,
 };
 
